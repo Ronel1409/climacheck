@@ -17,7 +17,7 @@ A weather forecasting app that displays real-time weather data for any location 
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/climacheck.git
+git clone https://github.com/Ronel1409/climacheck.git
 cd climacheck
 npm install
 npm start
