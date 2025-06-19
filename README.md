@@ -1,4 +1,4 @@
-#ClimaCheck
+# ClimaCheck
 
 A weather forecasting app that displays real-time weather data for any location using open weather APIs.
 
